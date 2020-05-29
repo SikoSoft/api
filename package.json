@@ -6,9 +6,8 @@
     "test": "echo \"No tests yet...\""
   },
   "dependencies": {
-    "azure-storage": "^2.10.3",
     "dotenv": "^8.2.0",
-    "querystring": "^0.2.0"
+    "mariadb": "^2.4.0"
   },
   "devDependencies": {}
 }
