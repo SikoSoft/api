@@ -6,6 +6,7 @@ const fiats = ['usd', 'eur', 'sek'];
 
 
 module.exports = async function (context, myTimer) {
+    /*
     await axios.get(
         'https://api.coingecko.com/api/v3/simple/price', {
             params: {
@@ -38,6 +39,7 @@ module.exports = async function (context, myTimer) {
             }
         });
     });
+    */
     /*
     var timeStamp = new Date().toISOString();
     
