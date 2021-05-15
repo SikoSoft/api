@@ -9,8 +9,8 @@
     "axios": "^0.21.1",
     "dotenv": "^8.2.0",
     "mariadb": "^2.4.0",
-    "tplink-cloud-api": "^0.8.1",
-    "uuid": "^8.3.2"
+    "uuid": "^8.3.2",
+    "tplink-cloud-api": "file:./tplink-cloud-api-0.8.1.tgz"
   },
   "devDependencies": {}
 }
